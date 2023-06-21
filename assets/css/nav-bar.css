@@ -1,0 +1,30 @@
+nav ul li img{
+    width: 40px;
+}
+
+nav{
+    background-color:  #fef7e2;;
+    width: 800px;
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+nav ul li {
+    padding: 5px;
+    margin: 10px;
+    width: 100px;
+    background-color: #ffdf7f;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;}
